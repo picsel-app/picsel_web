@@ -33,9 +33,9 @@
 		<div class="mt-28 flex flex-col md:flex-row md:justify-between items-center text-sm text-black">
 			<p class="order-2 md:order-1 mt-8 md:mt-0">&copy; Picsel, 2023.</p>
 			<div class="order-1 md:order-2">
-				<a class="px-2" href="{base}/contact">Kontakt</a>
+				<!-- <a class="px-2" href="{base}/contact">Kontakt</a>
 				<a class="px-2 border-l" href="{base}/privacy">Datenschutz</a>
-				<a class="px-2 border-l" href="{base}/agb">AGB</a>
+				<a class="px-2 border-l" href="{base}/agb">AGB</a> -->
 			</div>
 		</div>
 	</div>
