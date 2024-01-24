@@ -39,13 +39,13 @@
 			</div>
 		</div>
 		<div class="lg:mt-0 lg:col-span-5 lg:flex">
-			<img alt="mockup" src={screenshot1}  />
+			<img alt="mockup" src={screenshot2}  />
 		</div>
 	</div>
 
 	<div class="grid max-w-screen-xl px-2 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
 		<div class="lg:mt-0 lg:col-span-7 lg:flex">
-			<img alt="mockup2"  src={screenshot2} />
+			<img alt="mockup2"  src={screenshot1} />
 		</div>
 		<div class="mx-auto place-self-center lg:col-span-5 ">
 			<h1
