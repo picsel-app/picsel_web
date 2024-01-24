@@ -1,3 +1,7 @@
+<script lang="ts">
+    import { base } from '$app/paths';
+</script>
+
 <div class="min-h-screen">
 	<section>
 		<h1>End User Licence Agreement</h1>
@@ -131,7 +135,7 @@
 			You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed
 			Application content and Your personal information, and that Licensor’s use of such material
 			and information is subject to Your legal agreements with Licensor and Licensor’s <a
-				href="/privacy">Privacy Policy</a
+				href="{base}/privacy">Privacy Policy</a
 			>
 		</p>
 		<p>
