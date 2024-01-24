@@ -5,7 +5,7 @@
 
 <div class="min-h-fit bg-white">
 	<div class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
-		<div class="mx-auto place-self-center lg:col-span-7">
+		<div class="mx-auto place-self-center lg:col-span-8">
 			<h1
 				class="max-w-2xl mb-4 text-xl font-bold tracking-tight leading-none md:text-2xl xl:text-3xl "
 			>
@@ -38,16 +38,16 @@
 				</a>
 			</div>
 		</div>
-		<div class="lg:mt-0 lg:col-span-5 lg:flex place-self-center">
+		<div class="lg:mt-2 lg:col-span-4 lg:flex place-self-center  ">
 			<img alt="mockup" src={screenshot2}  />
 		</div>
 	</div>
 
 	<div class="grid max-w-screen-xl px-2 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
-		<div class="lg:mt-0 lg:col-span-7 lg:flex place-self-center">
+		<div class="lg:mt-0 lg:col-span-4 lg:flex place-self-center">
 			<img alt="mockup2"  src={screenshot1} />
 		</div>
-		<div class="mx-auto place-self-center lg:col-span-5 ">
+		<div class="mx-auto place-self-center lg:col-span-8 ">
 			<h1
 				class="max-w-2xl mb-4 text-xl font-bold tracking-tight leading-none md:text-2xl xl:text-3xl"
 			>

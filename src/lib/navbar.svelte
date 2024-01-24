@@ -4,7 +4,7 @@
 
 <div class="header flex justify-center items-center ">
 	<a href="{base}/">
-		<div class="text-3xl mb-3 font-bold">picsel.</div> 
+		<div class="text-3xl mb-3 font-bold hover:font-extrabold">picsel.</div> 
 	</a>
 </div>
 
